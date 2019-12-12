@@ -16,7 +16,7 @@ The assignment should be send back as a zip archive.
 Guidelines: 
 -----------
 
-Please don't use external libraries for networking and TableViews. Other libraries can be used as needed. 
+Please don't use external libraries for networking and TableViews. Other libraries can be used as needed. Please do not use RxSwift or other reactive libraries.
 
 The code needs to be written in Swift. Remember about unit tests and consider application architecture carefully. 
 
